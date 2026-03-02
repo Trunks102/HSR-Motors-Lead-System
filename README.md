@@ -12,6 +12,7 @@ The HSR Motors Lead Management System is a centralized, web-based application th
 It transforms unorganized inquiries into a trackable, measurable, and performance-driven pipeline 📊.
 
 🔄 End-to-End Process Flow
+
 1️⃣ Lead Capture 📥
 
 Customer inquiries enter the system via website forms, showroom entries, or campaign imports.
