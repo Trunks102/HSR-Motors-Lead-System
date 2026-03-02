@@ -130,5 +130,4 @@ Improved usability by reducing steps required to update lead status.
 
 📊 Predictive sales forecasting
 
-🎨 Figma Design Link
 
