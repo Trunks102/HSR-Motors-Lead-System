@@ -1,4 +1,5 @@
 🚘 HSR Motors Lead Management System
+
 🌍 Problem Statement
 
 Traditional dealership lead handling is fragmented — inquiries get lost across spreadsheets, calls, WhatsApp messages, and manual notes 📉.
