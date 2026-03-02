@@ -7,7 +7,7 @@ Delayed follow-ups reduce conversion probability, and managers lack visibility i
 
 This creates operational inefficiency and revenue leakage.
 
-🔗 Figma Prototype:
+🎨 Figma Design Link:
 [(Ignition - Hub)](https://www.figma.com/design/QkycFtuhTk0LGFe6DW8uTD/Ignition-Hub?node-id=0-1&p=f&t=2Of8T1AVZpMW7Iid-0)
 
 🚀 Solution Overview
@@ -132,5 +132,3 @@ Improved usability by reducing steps required to update lead status.
 
 🎨 Figma Design Link
 
-🔗 Figma Prototype:
-[(Ignition - Hub)](https://www.figma.com/design/QkycFtuhTk0LGFe6DW8uTD/Ignition-Hub?node-id=0-1&p=f&t=2Of8T1AVZpMW7Iid-0)
