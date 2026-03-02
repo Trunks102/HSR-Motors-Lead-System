@@ -7,6 +7,9 @@ Delayed follow-ups reduce conversion probability, and managers lack visibility i
 
 This creates operational inefficiency and revenue leakage.
 
+🔗 Figma Prototype:
+[(Ignition - Hub)](https://www.figma.com/design/QkycFtuhTk0LGFe6DW8uTD/Ignition-Hub?node-id=0-1&p=f&t=2Of8T1AVZpMW7Iid-0)
+
 🚀 Solution Overview
 
 The HSR Motors Lead Management System is a centralized, web-based application that digitizes and structures the entire automotive sales funnel 💻.
